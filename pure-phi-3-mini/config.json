@@ -1,0 +1,16 @@
+{
+  "address": "",
+  "chat": "https://huggingface.co/second-state/Phi-3-mini-4k-instruct-GGUF/resolve/main/Phi-3-mini-4k-instruct-Q5_K_M.gguf",
+  "chat_ctx_size": "4096",
+  "description": "The default GaiaNet node config with a phi-3-mini model and a Paris tour guide knowledge base.",
+  "domain": "gaianet.network",
+  "embedding": "https://huggingface.co/second-state/All-MiniLM-L6-v2-Embedding-GGUF/resolve/main/all-MiniLM-L6-v2-ggml-model-f16.gguf",
+  "embedding_collection_name": "default",
+  "embedding_ctx_size": "384",
+  "llamaedge_port": "8080",
+  "prompt_template": "phi-3-chat",
+  "rag_prompt": "Use the following pieces of context to answer the user's question.\nIf you don't know the answer, just say that you don't know, don't try to make up an answer.\n----------------\n",
+  "reverse_prompt": "",
+  "snapshot": "https://huggingface.co/datasets/gaianet/paris/resolve/main/paris_384_all-minilm-l6-v2_f16.snapshot",
+  "system_prompt": "You are a helpful, respectful and honest assistant. Always answer accurately, while being safe."
+}
