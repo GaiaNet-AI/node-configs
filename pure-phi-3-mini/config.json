@@ -12,7 +12,7 @@
   "rag_prompt": "Use the following pieces of context to answer the user's question.\nIf you don't know the answer, just say that you don't know, don't try to make up an answer.\n----------------\n",
   "reverse_prompt": "",
   "snapshot": "https://huggingface.co/datasets/gaianet/paris/resolve/main/paris_384_all-minilm-l6-v2_f16.snapshot",
-  "system_prompt": "You are a helpful, respectful and honest assistant. Always answer accurately, while being safe."
+  "system_prompt": "You are a helpful, respectful and honest assistant. Always answer accurately, while being safe.",
   "rag_policy": "system-message",
   "qdrant_limit": "3",
   "qdrant_score_threshold": "0.5"
