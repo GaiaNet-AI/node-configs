@@ -14,7 +14,6 @@
   "snapshot": "https://huggingface.co/datasets/gaianet/paris/resolve/main/paris_384_all-minilm-l6-v2_f16.snapshot",
   "system_prompt": "You are a helpful, respectful and honest assistant. Always answer accurately, while being safe."
   "rag_policy": "system-message",
-  "embedding_collection_name": "default",
   "qdrant_limit": "3",
   "qdrant_score_threshold": "0.5"
 }
