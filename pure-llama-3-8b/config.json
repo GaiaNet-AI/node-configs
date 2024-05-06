@@ -12,4 +12,8 @@
   "reverse_prompt": "",
   "snapshot": "https://huggingface.co/datasets/gaianet/none/resolve/main/none.snapshot",
   "system_prompt": "You are a helpful, respectful, and honest assistant."
+  "rag_policy": "system-message",
+  "embedding_collection_name": "default",
+  "qdrant_limit": "3",
+  "qdrant_score_threshold": "0.5",
 }
