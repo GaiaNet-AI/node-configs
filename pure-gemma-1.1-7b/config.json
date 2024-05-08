@@ -3,7 +3,7 @@
   "chat": "https://huggingface.co/second-state/gemma-1.1-7b-it-GGUF/resolve/main/gemma-1.1-7b-it-Q5_K_M.gguf",
   "chat_ctx_size": "3072",
   "description": "Llama-3-70B-Instruct",
-  "domain": "gaianet.xyz",
+  "domain": "gaianet.network",
   "embedding": "https://huggingface.co/second-state/All-MiniLM-L6-v2-Embedding-GGUF/resolve/main/all-MiniLM-L6-v2-ggml-model-f16.gguf",
   "embedding_ctx_size": "384",
   "llamaedge_port": "8080",
@@ -15,5 +15,5 @@
   "rag_policy": "system-message",
   "embedding_collection_name": "default",
   "qdrant_limit": "3",
-  "qdrant_score_threshold": "0.5",
+  "qdrant_score_threshold": "0.5"
 }
