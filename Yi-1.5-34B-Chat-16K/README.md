@@ -20,7 +20,7 @@ gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/
 gaianet start
 ```
 
-Now you can [use the node](https://docs.gaianet.ai/user-guide/nodes) as a web-based chatbot or as an OpenAI API drop-in replacement.
+Now you can [use the node](https://docs.gaianet.ai/user-guide/mynode) as a web-based chatbot or as an OpenAI API drop-in replacement.
 
 ## References
 
