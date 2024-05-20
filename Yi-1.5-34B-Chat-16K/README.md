@@ -1,6 +1,6 @@
 # A Yi-1.5-9B node with 16K context window
 
-Step 1: Install GaiaNet node
+**Step 1:** Install GaiaNet node
 
 ```
 curl -sSfL 'https://raw.githubusercontent.com/GaiaNet-AI/gaianet-node/main/install.sh' | bash
@@ -8,13 +8,13 @@ curl -sSfL 'https://raw.githubusercontent.com/GaiaNet-AI/gaianet-node/main/insta
 
 See the [GaiaNet node quick start guide](https://docs.gaianet.ai/node-guide/quick-start)
 
-Step 2: Init with the Yi-1..5-9B-16K model
+**Step 2:** Init with the Yi-1..5-9B-16K model
 
 ```
 gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/Yi-1.5-9B-Chat-16K/config.json
 ```
 
-Step 3: Start the node
+**Step 3:** Start the node
 
 ```
 gaianet start
