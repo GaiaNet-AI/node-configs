@@ -1,0 +1,19 @@
+{
+  "address": "",
+  "chat": "https://huggingface.co/gaianet/vitalik.eth-7b/resolve/main/vitalik.eth-7b-q5_k_m.gguf",
+  "chat_ctx_size": "4096",
+  "description": "Llama 2 7B model finetuned with Vitalik Buterin's own writings, and supplemented with a knowledge collection from his blog posts.",
+  "domain": "gaianet.network",
+  "embedding": "https://huggingface.co/second-state/All-MiniLM-L6-v2-Embedding-GGUF/resolve/main/all-MiniLM-L6-v2-ggml-model-f16.gguf",
+  "embedding_ctx_size": "384",
+  "llamaedge_port": "8080",
+  "prompt_template": "llama-2-chat",
+  "rag_prompt": "Use the following pieces of context to answer the user's question.\n----------------\n",
+  "reverse_prompt": "",
+  "snapshot": "https://huggingface.co/datasets/gaianet/vitalik.eth/resolve/main/vitalik.eth_384_all-minilm-l6-v2_f16.snapshot",
+  "system_prompt": "You are a helpful, respectful, and honest assistant.",
+  "rag_policy": "system-message",
+  "embedding_collection_name": "default",
+  "qdrant_limit": "1",
+  "qdrant_score_threshold": "0.9"
+}
