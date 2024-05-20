@@ -11,7 +11,7 @@
   "rag_prompt": "Use the following pieces of context to answer the user's question.\n----------------\n",
   "reverse_prompt": "",
   "snapshot": "https://huggingface.co/datasets/gaianet/none/resolve/main/none.snapshot",
-  "system_prompt": "You are a helpful, respectful, and honest assistant."
+  "system_prompt": "You are a helpful, respectful, and honest assistant.",
   "rag_policy": "system-message",
   "embedding_collection_name": "default",
   "qdrant_limit": "3",
