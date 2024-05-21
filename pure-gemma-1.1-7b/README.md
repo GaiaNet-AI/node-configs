@@ -8,7 +8,7 @@ curl -sSfL 'https://raw.githubusercontent.com/GaiaNet-AI/gaianet-node/main/insta
 
 See the [GaiaNet node quick start guide](https://docs.gaianet.ai/node-guide/quick-start)
 
-**Step 2:** Init with the Yi-1..5-9B-16K model
+**Step 2:** Init with the Gemma-1.1-7B model
 
 ```
 gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/pure-gemma-1.1-7b/config.json
