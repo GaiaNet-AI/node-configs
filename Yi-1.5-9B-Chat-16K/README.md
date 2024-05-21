@@ -24,5 +24,5 @@ Now you can [use the node](https://docs.gaianet.ai/user-guide/mynode) as a web-b
 
 ## References
 
-* [Official PyTorch model](https://huggingface.co/google/gemma-1.1-7b-it)
-* GGUF formatted model: coming soon
+* [Official PyTorch model](https://huggingface.co/01-ai/Yi-1.5-9B-Chat-16K)
+* [GGUF formatted model](https://huggingface.co/gaianet/Yi-1.5-9B-Chat-16K-GGUF)
