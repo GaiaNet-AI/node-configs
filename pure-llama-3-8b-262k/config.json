@@ -4,7 +4,7 @@
   "chat_ctx_size": "4096",
   "description": "Llama-3-8B-Instruct-262k",
   "domain": "gaianet.network",
-  "embedding": "https://huggingface.co/second-state/All-MiniLM-L6-v2-Embedding-GGUF/resolve/main/all-MiniLM-L6-v2-ggml-model-f16.gguf",
+  "embedding": "https://huggingface.co/gaianet/All-MiniLM-L6-v2-Embedding-GGUF/resolve/main/all-MiniLM-L6-v2-ggml-model-f16.gguf",
   "embedding_ctx_size": "384",
   "llamaedge_port": "8080",
   "prompt_template": "llama-3-chat",
