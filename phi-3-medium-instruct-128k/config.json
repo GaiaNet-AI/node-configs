@@ -1,8 +1,8 @@
 {
   "address": "",
-  "chat": "https://huggingface.co/gaianet/Phi-3-mini-4k-instruct-GGUF/resolve/main/Phi-3-mini-4k-instruct-Q5_K_M.gguf",
-  "chat_ctx_size": "4096",
-  "description": "This GaiaNet node config with a phi-3-mini model.",
+  "chat": "https://huggingface.co/gaianet/Phi-3-medium-128k-instruct-GGUF/resolve/main/Phi-3-medium-128k-instruct-Q5_K_M.gguf",
+  "chat_ctx_size": "131072",
+  "description": "This GaiaNet node config with a phi-3-medium 128k model.",
   "domain": "gaianet.network",
   "embedding": "https://huggingface.co/gaianet/All-MiniLM-L6-v2-Embedding-GGUF/resolve/main/all-MiniLM-L6-v2-ggml-model-f16.gguf",
   "embedding_collection_name": "default",
