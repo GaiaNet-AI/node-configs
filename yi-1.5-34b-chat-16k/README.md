@@ -6,8 +6,6 @@
 curl -sSfL 'https://raw.githubusercontent.com/GaiaNet-AI/gaianet-node/main/install.sh' | bash
 ```
 
-See the [GaiaNet node quick start guide](https://docs.gaianet.ai/node-guide/quick-start)
-
 **Step 2:** Init with the Yi-1.5-34B-16K model
 
 ```
@@ -26,3 +24,4 @@ Now you can [use the node](https://docs.gaianet.ai/user-guide/mynode) as a web-b
 
 * [Official PyTorch model](https://huggingface.co/01-ai/Yi-1.5-34B-Chat-16K)
 * [GGUF formatted model](https://huggingface.co/gaianet/Yi-1.5-34B-Chat-16K-GGUF)
+* [GaiaNet node quick start guide](https://docs.gaianet.ai/node-guide/quick-start)

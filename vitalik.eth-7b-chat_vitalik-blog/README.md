@@ -6,8 +6,6 @@
 curl -sSfL 'https://raw.githubusercontent.com/GaiaNet-AI/gaianet-node/main/install.sh' | bash
 ```
 
-See the [GaiaNet node quick start guide](https://docs.gaianet.ai/node-guide/quick-start)
-
 **Step 2:** Init with the fine-tuned Llama-2-7B model
 
 ```
@@ -25,3 +23,4 @@ Now you can [use the node](https://docs.gaianet.ai/user-guide/mynode) as a web-b
 ## References
 
 * [GGUF formatted model](https://huggingface.co/gaianet/vitalik.eth-7b)
+* [GaiaNet node quick start guide](https://docs.gaianet.ai/node-guide/quick-start)
