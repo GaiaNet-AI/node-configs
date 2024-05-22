@@ -1,4 +1,4 @@
-# A Llama-3-8B node
+# A Gemma-1.1-7B node
 
 **Step 1:** Install GaiaNet node
 
@@ -8,10 +8,10 @@ curl -sSfL 'https://raw.githubusercontent.com/GaiaNet-AI/gaianet-node/main/insta
 
 See the [GaiaNet node quick start guide](https://docs.gaianet.ai/node-guide/quick-start)
 
-**Step 2:** Init with the Llama-3-8B model
+**Step 2:** Init with the Gemma-1.1-7B model
 
 ```
-gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/pure-llama-3-8b/config.json
+gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/gemma-1.1-7b-it/config.json
 ```
 
 **Step 3:** Start the node
@@ -24,5 +24,5 @@ Now you can [use the node](https://docs.gaianet.ai/user-guide/mynode) as a web-b
 
 ## References
 
-* [Official PyTorch model](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct)
-* [GGUF formatted model](https://huggingface.co/gaianet/Llama-3-8B-Instruct-GGUF)
+* [Official PyTorch model](https://huggingface.co/google/gemma-1.1-7b-it-GGUF)
+* GGUF formatted model: coming soon

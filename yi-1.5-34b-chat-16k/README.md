@@ -1,4 +1,4 @@
-# A Llama-2-7B node with Vitalik's knowledge
+# A Yi-1.5-34B node with 16K context window
 
 **Step 1:** Install GaiaNet node
 
@@ -8,10 +8,10 @@ curl -sSfL 'https://raw.githubusercontent.com/GaiaNet-AI/gaianet-node/main/insta
 
 See the [GaiaNet node quick start guide](https://docs.gaianet.ai/node-guide/quick-start)
 
-**Step 2:** Init with the fine-tuned Llama-2-7B model
+**Step 2:** Init with the Yi-1.5-34B-16K model
 
 ```
-gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/vitalik.eth-7b/config.json
+gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/yi-1.5-34b-chat-16k/config.json
 ```
 
 **Step 3:** Start the node
@@ -24,4 +24,5 @@ Now you can [use the node](https://docs.gaianet.ai/user-guide/mynode) as a web-b
 
 ## References
 
-* [GGUF formatted model](https://huggingface.co/gaianet/vitalik.eth-7b)
+* [Official PyTorch model](https://huggingface.co/01-ai/Yi-1.5-34B-Chat-16K)
+* [GGUF formatted model](https://huggingface.co/gaianet/Yi-1.5-34B-Chat-16K-GGUF)

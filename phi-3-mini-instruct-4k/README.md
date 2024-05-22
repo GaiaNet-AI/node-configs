@@ -1,4 +1,4 @@
-# A Phi-3-mini-4k node with GaiaNet knowledge
+# A Phi-3-mini-4k node 
 
 **Step 1:** Install GaiaNet node
 
@@ -11,7 +11,7 @@ See the [GaiaNet node quick start guide](https://docs.gaianet.ai/node-guide/quic
 **Step 2:** Init with the Phi-3-mini-4k model
 
 ```
-gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/gaianet-phi-3-nomic/config.json
+gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/phi-3-mini-instruct-4k/config.json
 ```
 
 **Step 3:** Start the node
