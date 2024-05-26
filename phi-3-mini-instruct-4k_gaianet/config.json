@@ -1,7 +1,7 @@
 {
   "address": "",
   "chat": "https://huggingface.co/gaianet/Phi-3-mini-4k-instruct-GGUF/resolve/main/Phi-3-mini-4k-instruct-Q5_K_M.gguf",
-  "chat_ctx_size": "3072",
+  "chat_ctx_size": "4096",
   "description": "The default GaiaNet node config with a phi-3-mini model and a GaiaNet knowledge base.",
   "domain": "gaianet.network",
   "embedding": "https://huggingface.co/gaianet/Nomic-embed-text-v1.5-Embedding-GGUF/resolve/main/nomic-embed-text-v1.5.f16.gguf",
@@ -14,6 +14,6 @@
   "snapshot": "https://huggingface.co/datasets/gaianet/gaianet/resolve/main/gaianet-nomic-f16.snapshot",
   "system_prompt": "You are a helpful, respectful, and honest assistant. Always answer accurately and concisely, while being safe.",
   "rag_policy": "system-message",
-  "qdrant_limit": "3",
-  "qdrant_score_threshold": "0.5"
+  "qdrant_limit": "1",
+  "qdrant_score_threshold": "0.2"
 }
