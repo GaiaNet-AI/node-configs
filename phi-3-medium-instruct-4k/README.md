@@ -6,12 +6,6 @@
 curl -sSfL 'https://raw.githubusercontent.com/GaiaNet-AI/gaianet-node/main/install.sh' | bash
 ```
 
-Step 1a: For now, you need to install a preview version of [WasmEdge](https://github.com/WasmEdge/WasmEdge) in order to support the new Phi-3 models
-
-```
-curl -sSf https://raw.githubusercontent.com/WasmEdge/WasmEdge/master/utils/install_v2.sh | bash -s -- --ggmlbn=b2963
-```
-
 **Step 2:** Init with the Phi-3-medium-4k model
 
 ```
