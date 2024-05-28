@@ -3,7 +3,7 @@
   "chat": "https://huggingface.co/MaziyarPanahi/Mistral-7B-Instruct-v0.3-GGUF/resolve/main/Mistral-7B-Instruct-v0.3.Q5_K_M.gguf",
   "chat_ctx_size": "8192",
   "description": "GaiaNet node with a mistral 0.3 7b instruct model.",
-  "domain": "gaianet.network",
+  "domain": "us.gaianet.network",
   "embedding": "https://huggingface.co/gaianet/Nomic-embed-text-v1.5-Embedding-GGUF/resolve/main/nomic-embed-text-v1.5.f16.gguf",
   "embedding_collection_name": "default",
   "embedding_ctx_size": "512",
