@@ -1,7 +1,7 @@
 {
   "address": "",
   "chat": "https://huggingface.co/MaziyarPanahi/Mistral-7B-Instruct-v0.3-GGUF/resolve/main/Mistral-7B-Instruct-v0.3.Q5_K_M.gguf",
-  "chat_ctx_size": "8192",
+  "chat_ctx_size": "4096",
   "description": "GaiaNet node with a mistral 0.3 7b instruct model.",
   "domain": "us.gaianet.network",
   "embedding": "https://huggingface.co/gaianet/Nomic-embed-text-v1.5-Embedding-GGUF/resolve/main/nomic-embed-text-v1.5.f16.gguf",
@@ -9,7 +9,7 @@
   "embedding_ctx_size": "512",
   "llamaedge_port": "8080",
   "prompt_template": "mistral-instruct",
-  "qdrant_limit": "3",
+  "qdrant_limit": "1",
   "qdrant_score_threshold": "0.5",
   "rag_policy": "system-message",
   "rag_prompt": "Use the following pieces of context to answer the user's question.\nIf you don't know the answer, just say that you don't know, don't try to make up an answer.\n----------------\n",
