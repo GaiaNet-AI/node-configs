@@ -6,7 +6,7 @@
   "domain": "us.gaianet.network",
   "embedding": "https://huggingface.co/gaianet/Nomic-embed-text-v1.5-Embedding-GGUF/resolve/main/nomic-embed-text-v1.5.f16.gguf",
   "embedding_collection_name": "default",
-  "embedding_ctx_size": "384",
+  "embedding_ctx_size": "512",
   "llamaedge_port": "8080",
   "prompt_template": "phi-3-chat",
   "rag_prompt": "Use the following pieces of context to answer the user's question.\nIf you don't know the answer, just say that you don't know, don't try to make up an answer.\n----------------\n",
