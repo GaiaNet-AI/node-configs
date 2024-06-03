@@ -11,6 +11,11 @@ curl -sSfL 'https://raw.githubusercontent.com/GaiaNet-AI/gaianet-node/main/insta
 ```
 gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/phi-3-mini-instruct-128k/config.json
 ```
+Or, if you have at least 128GB of VRAM, you could use the full 128k context size of the model.
+
+```
+gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/phi-3-mini-instruct-128k/config_full.json
+```
 
 **Step 3:** Start the node
 

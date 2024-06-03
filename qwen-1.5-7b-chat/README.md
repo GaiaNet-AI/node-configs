@@ -11,6 +11,11 @@ curl -sSfL 'https://raw.githubusercontent.com/GaiaNet-AI/gaianet-node/main/insta
 ```
 gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/qwen-1.5-7b-chat/config.json
 ```
+Or, if you have at least 64GB of VRAM, you could use the full 8k context size of the model.
+
+```
+gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/qwen-1.5-7b-chat/config_full.json
+```
 
 **Step 3:** Start the node
 
