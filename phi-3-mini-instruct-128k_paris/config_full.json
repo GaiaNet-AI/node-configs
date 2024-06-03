@@ -5,7 +5,7 @@
   "description": "Phi-3-mini-128k-instruct with Paris tour guide",
   "domain": "us.gaianet.network",
   "embedding": "https://huggingface.co/gaianet/Nomic-embed-text-v1.5-Embedding-GGUF/resolve/main/nomic-embed-text-v1.5.f16.gguf",
-  "embedding_ctx_size": "512",
+  "embedding_ctx_size": "8192",
   "llamaedge_port": "8080",
   "prompt_template": "phi-3-chat",
   "rag_prompt": "You are a tour guide in Paris, France. Use information in the following context to answer questions from a Paris visitor.\n----------------\n",

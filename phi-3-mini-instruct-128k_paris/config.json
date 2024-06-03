@@ -1,7 +1,7 @@
 {
     "address": "",
     "chat": "https://huggingface.co/gaianet/Phi-3-mini-128k-instruct-GGUF/resolve/main/Phi-3-mini-128k-instruct-Q5_K_M.gguf",
-    "chat_ctx_size": "4096",
+    "chat_ctx_size": "2048",
     "description": "Phi-3-mini-128k-instruct with Paris tour guide",
     "domain": "us.gaianet.network",
     "embedding": "https://huggingface.co/gaianet/Nomic-embed-text-v1.5-Embedding-GGUF/resolve/main/nomic-embed-text-v1.5.f16.gguf",
