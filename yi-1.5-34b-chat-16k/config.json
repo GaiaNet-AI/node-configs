@@ -15,6 +15,6 @@
     "rag_policy": "system-message",
     "embedding_collection_name": "default",
     "qdrant_limit": "1",
-    "qdrant_score_threshold": "0.9"
+    "qdrant_score_threshold": "0.5"
   }
   
