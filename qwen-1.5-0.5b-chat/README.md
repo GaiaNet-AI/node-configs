@@ -3,7 +3,7 @@
 **Step 1:** Install GaiaNet node
 
 ```
-curl -sSfL 'https://raw.githubusercontent.com/GaiaNet-AI/gaianet-node/main/install.sh' | bash
+curl -sSfL 'https://github.com/GaiaNet-AI/gaianet-node/releases/latest/download/install.sh' | bash
 ```
 
 **Step 2:** Init with the qwen-1.5-0.5b-chat model
