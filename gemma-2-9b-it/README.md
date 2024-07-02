@@ -1,4 +1,4 @@
-# A Gemma-1.1-7B node
+# A Gemma-2-9B node
 
 **Step 1:** Install GaiaNet node
 
