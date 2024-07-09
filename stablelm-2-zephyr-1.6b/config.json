@@ -1,6 +1,6 @@
 {
   "address": "",
-  "chat": "https://huggingface.co/second-state/stablelm-2-zephyr-1.6b-GGUF/resolve/main/stablelm-2-zephyr-1_6b-Q5_K_M.gguf",
+  "chat": "https://huggingface.co/gaianet/stablelm-2-zephyr-1.6b-GGUF/resolve/main/stablelm-2-zephyr-1_6b-Q5_K_M.gguf",
   "chat_ctx_size": "2048",
   "description": "GaiaNet node with a StableLM 2 Zephyr 1.6b model.",
   "domain": "us.gaianet.network",
