@@ -1,0 +1,19 @@
+{
+  "address": "",
+  "chat": "https://huggingface.co/second-state/stablelm-2-zephyr-1.6b-GGUF/resolve/main/stablelm-2-zephyr-1_6b-Q5_K_M.gguf",
+  "chat_ctx_size": "2048",
+  "description": "GaiaNet node with a StableLM 2 Zephyr 1.6b model.",
+  "domain": "us.gaianet.network",
+  "embedding": "https://huggingface.co/gaianet/Nomic-embed-text-v1.5-Embedding-GGUF/resolve/main/nomic-embed-text-v1.5.f16.gguf",
+  "embedding_collection_name": "default",
+  "embedding_ctx_size": "512",
+  "llamaedge_port": "8080",
+  "prompt_template": "stablelm-zephyr",
+  "qdrant_limit": "1",
+  "qdrant_score_threshold": "0.5",
+  "rag_policy": "system-message",
+  "rag_prompt": "Use the following pieces of context to answer the user's question.\nIf you don't know the answer, just say that you don't know, don't try to make up an answer.\n----------------\n",
+  "reverse_prompt": "",
+  "snapshot": "",
+  "system_prompt": "You are a helpful, respectful, and honest assistant. Always answer accurately, while being safe."
+}
