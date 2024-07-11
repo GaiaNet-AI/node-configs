@@ -1,7 +1,7 @@
 {
   "address": "",
   "chat": "https://huggingface.co/gaianet/gemma-2-9b-it-GGUF/resolve/main/gemma-2-9b-it-Q5_K_M.gguf",
-  "chat_ctx_size": "4096",
+  "chat_ctx_size": "8192",
   "chat_batch_size": "16",
   "description": "gemma-2-9b-it",
   "domain": "us.gaianet.network",

@@ -1,8 +1,8 @@
 {
     "address": "",
     "chat": "https://huggingface.co/gaianet/Qwen2-0.5B-Instruct-GGUF/resolve/main/Qwen2-0.5B-Instruct-Q5_K_M.gguf",
-    "chat_ctx_size": "4096",
-    "chat_batch_size": "16",
+    "chat_ctx_size": "131072",
+    "chat_batch_size": "32",
     "description": "This GaiaNet node config with a Qwen2 0.5B model.",
     "domain": "us.gaianet.network",
     "embedding": "https://huggingface.co/gaianet/Nomic-embed-text-v1.5-Embedding-GGUF/resolve/main/nomic-embed-text-v1.5.f16.gguf",

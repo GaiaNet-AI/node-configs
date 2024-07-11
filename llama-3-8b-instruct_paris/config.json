@@ -1,7 +1,7 @@
 {
   "address": "",
   "chat": "https://huggingface.co/gaianet/Llama-3-8B-Instruct-GGUF/resolve/main/Meta-Llama-3-8B-Instruct-Q5_K_M.gguf",
-  "chat_ctx_size": "4096",
+  "chat_ctx_size": "8192",
   "chat_batch_size": "16",
   "description": "Llama-3-8b-Instruct with Paris tour guide",
   "domain": "us.gaianet.network",

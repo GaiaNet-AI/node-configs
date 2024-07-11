@@ -1,7 +1,7 @@
 {
     "address": "",
     "chat": "https://huggingface.co/gaianet/Qwen1.5-7B-Chat-GGUF/resolve/main/Qwen1.5-7B-Chat-Q5_K_M.gguf",
-    "chat_ctx_size": "4096",
+    "chat_ctx_size": "32768",
     "chat_batch_size": "16",
     "description": "This GaiaNet node config with a Qwen 1.5 7B model.",
     "domain": "us.gaianet.network",

@@ -1,7 +1,7 @@
 {
     "address": "",
     "chat": "https://huggingface.co/gaianet/Phi-3-medium-128k-instruct-GGUF/resolve/main/Phi-3-medium-128k-instruct-Q5_K_M.gguf",
-    "chat_ctx_size": "4096",
+    "chat_ctx_size": "131072",
     "chat_batch_size": "16",
     "description": "This GaiaNet node config with a phi-3-medium 128k model.",
     "domain": "us.gaianet.network",
