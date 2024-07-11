@@ -12,12 +12,6 @@ curl -sSfL 'https://github.com/GaiaNet-AI/gaianet-node/releases/latest/download/
 gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/llama-3-70b-instruct/config.json
 ```
 
-Or, if you have at least 64GB of VRAM, you could use the full 8k context size of the model.
-
-```
-gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/llama-3-70b-instruct/config_full.json
-```
-
 **Step 3:** Start the node
 
 ```

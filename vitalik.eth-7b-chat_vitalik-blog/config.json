@@ -1,7 +1,8 @@
 {
   "address": "",
   "chat": "https://huggingface.co/gaianet/vitalik.eth-7b/resolve/main/vitalik.eth-7b-q5_k_m.gguf",
-  "chat_ctx_size": "4096",\n"chat_batch_size": "16",
+  "chat_ctx_size": "4096",
+  "chat_batch_size": "16",
   "description": "Llama 2 7B model finetuned with Vitalik Buterin's own writings, and supplemented with a knowledge collection from his blog posts.",
   "domain": "us.gaianet.network",
   "embedding": "https://huggingface.co/gaianet/All-MiniLM-L6-v2-Embedding-GGUF/resolve/main/all-MiniLM-L6-v2-ggml-model-f16.gguf",

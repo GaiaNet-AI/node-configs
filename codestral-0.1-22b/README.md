@@ -12,12 +12,6 @@ curl -sSfL 'https://github.com/GaiaNet-AI/gaianet-node/releases/latest/download/
 gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/codestral-0.1-22b/config.json
 ```
 
-Or, if you have at least 128GB of VRAM, you could use the full 32k context size of the model.
-
-```
-gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/codestral-0.1-22b/config_full.json
-```
-
 **Step 3:** Start the node
 
 ```
