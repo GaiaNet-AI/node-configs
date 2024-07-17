@@ -1,0 +1,21 @@
+{
+  "address": "0",
+  "chat": "https://huggingface.co/gaianet/mathstral-7B-v0.1-GGUF/resolve/main/mathstral-7B-v0.1-Q5_K_M.gguf",
+  "chat_batch_size": "16",
+  "chat_ctx_size": "32000",
+  "description": "mathsrtal-7b",
+  "domain": "us.gaianet.network",
+  "embedding": "https://huggingface.co/gaianet/Nomic-embed-text-v1.5-Embedding-GGUF/resolve/main/nomic-embed-text-v1.5.f16.gguf",
+  "embedding_batch_size": "8192",
+  "embedding_collection_name": "default",
+  "embedding_ctx_size": "8192",
+  "llamaedge_port": "8080",
+  "prompt_template": "mistral-instruct",
+  "qdrant_limit": "1",
+  "qdrant_score_threshold": "0.5",
+  "rag_policy": "last-user-message",
+  "rag_prompt": "Use the following pieces of context to answer the user's question.\n----------------\n",
+  "reverse_prompt": "",
+  "snapshot": "https://huggingface.co/datasets/alabulei/gaianet-test/resolve/main/add-new-line-nomic.snapshot",
+  "system_prompt": "You are a helpful, respectful, and honest assistant."
+}
