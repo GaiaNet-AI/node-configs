@@ -16,6 +16,6 @@
   "rag_policy": "last-user-message",
   "rag_prompt": "Use the following pieces of context to answer the user's question.\n----------------\n",
   "reverse_prompt": "",
-  "snapshot": "https://huggingface.co/datasets/alabulei/gaianet-test/resolve/main/add-new-line-nomic.snapshot",
+  "snapshot": "",
   "system_prompt": "You are a helpful, respectful, and honest assistant."
 }
