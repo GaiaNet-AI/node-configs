@@ -1,5 +1,5 @@
 {
-  "address": "0",
+  "address": "",
   "chat": "https://huggingface.co/gaianet/mathstral-7B-v0.1-GGUF/resolve/main/mathstral-7B-v0.1-Q5_K_M.gguf",
   "chat_batch_size": "16",
   "chat_ctx_size": "32000",
