@@ -22,6 +22,6 @@ Now you can [use the node](https://docs.gaianet.ai/user-guide/mynode) as a web-b
 
 ## References
 
-* [Official PyTorch model](https://huggingface.co/mistralai/Codestral-22B-v0.1)
-* [GGUF model](https://huggingface.co/gaianet/Codestral-22B-v0.1-GGUF)
+* [Official PyTorch model](https://huggingface.co/mistralai/mathstral-7B-v0.1)
+* [GGUF model](https://huggingface.co/gaianet/mathstral-7B-v0.1-GGUF)
 * [GaiaNet node quick start guide](https://docs.gaianet.ai/node-guide/quick-start)
