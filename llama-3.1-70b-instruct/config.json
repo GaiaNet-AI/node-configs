@@ -1,0 +1,21 @@
+{
+  "address": "",
+  "chat": "https://huggingface.co/second-state/Meta-Llama-3.1-70B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-70B-Instruct-Q4_K_M.gguf",
+  "chat_ctx_size": "131072",
+  "chat_batch_size": "128",
+  "description": "Llama-3.1-70B-Instruct",
+  "domain": "us.gaianet.network",
+  "embedding": "https://huggingface.co/gaianet/Nomic-embed-text-v1.5-Embedding-GGUF/resolve/main/nomic-embed-text-v1.5.f16.gguf",
+  "embedding_ctx_size": "8192",
+  "embedding_batch_size": "8192",
+  "llamaedge_port": "8080",
+  "prompt_template": "llama-3-chat",
+  "rag_prompt": "Use the following pieces of context to answer the user's question.\n----------------\n",
+  "reverse_prompt": "",
+  "snapshot": "",
+  "system_prompt": "You are a helpful, respectful, and honest assistant.",
+  "rag_policy": "system-message",
+  "embedding_collection_name": "default",
+  "qdrant_limit": "1",
+  "qdrant_score_threshold": "0.5"
+}
