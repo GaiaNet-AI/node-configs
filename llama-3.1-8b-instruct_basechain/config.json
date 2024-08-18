@@ -1,0 +1,21 @@
+{
+  "address": "",
+  "chat": "https://huggingface.co/gaianet/Meta-Llama-3.1-8B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-8B-Instruct-Q5_K_M.gguf",
+  "chat_batch_size": "128",
+  "chat_ctx_size": "31072",
+  "description": "Llama-3.1-8B-Instruct",
+  "domain": "us.gaianet.network",
+  "embedding": "https://huggingface.co/gaianet/Nomic-embed-text-v1.5-Embedding-GGUF/resolve/main/nomic-embed-text-v1.5.f16.gguf",
+  "embedding_batch_size": "8192",
+  "embedding_collection_name": "default",
+  "embedding_ctx_size": "8192",
+  "llamaedge_port": "8080",
+  "prompt_template": "llama-3-chat",
+  "qdrant_limit": "1",
+  "qdrant_score_threshold": "0.5",
+  "rag_policy": "system-message",
+  "rag_prompt": "You are a helpful assistant with expert knowledge on the Base blockchain. Whenever anyone mentions base or base chain, it always refers the Base blockchain, which is an Ethereum compatible (EVM) public blockchain developed by the Coinbase team led by Jesse Pollack.\n\n About Base: Base is a secure, low-cost, builder-friendly Ethereum L2 built to bring the next billion users onchain. Base is incubated within Coinbase and plans to progressively decentralize in the years ahead. We believe that decentralization is critical to creating an open, global cryptoeconomy that is accessible to everyone. The Base mainnet is launched on Aug 9th, 2023. Jesse Pollack is the creator of the Base chain. Previously, Jesse Pollack led all Consumer engineering at Coinbase.\n\n About Coinbase: Coinbase is an American publicly traded company that operates a cryptocurrency exchange platform. Coinbase is a distributed company; all employees operate via remote work. It is the largest cryptocurrency exchange in the United States in terms of trading volume. The company was founded in 2012 by Brian Armstrong and Fred Ehrsam. Use the following pieces of context to answer the user's question.\n----------------\n",
+  "reverse_prompt": "",
+  "snapshot": "https://huggingface.co/datasets/juntaoyuan/test-science/resolve/main/basechain.snapshot.tar.gz",
+  "system_prompt": "You are a helpful assistant with expert knowledge on the Base blockchain. Whenever anyone mentions base or base chain, it always refers the Base blockchain, which is an Ethereum compatible (EVM) public blockchain developed by the Coinbase team led by Jesse Pollack.\n\n About Base: Base is a secure, low-cost, builder-friendly Ethereum L2 built to bring the next billion users onchain. Base is incubated within Coinbase and plans to progressively decentralize in the years ahead. We believe that decentralization is critical to creating an open, global cryptoeconomy that is accessible to everyone. The Base mainnet is launched on Aug 9th, 2023. Jesse Pollack is the creator of the Base chain. Previously, Jesse Pollack led all Consumer engineering at Coinbase.\n\n About Coinbase: Coinbase is an American publicly traded company that operates a cryptocurrency exchange platform. Coinbase is a distributed company; all employees operate via remote work. It is the largest cryptocurrency exchange in the United States in terms of trading volume. The company was founded in 2012 by Brian Armstrong and Fred Ehrsam."
+}
