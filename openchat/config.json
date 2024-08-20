@@ -1,0 +1,23 @@
+{
+  "address": "",
+  "chat": "https://huggingface.co/second-state/OpenChat-3.5-0106-GGUF/resolve/main/openchat-3.5-0106-Q5_K_M.gguf",
+  "chat_ctx_size": "4096",
+  "chat_batch_size": "64",
+  "chat_name": "openchat-3.5-0106-Q5_K_M",
+  "description": "openchat-3.5",
+  "domain": "gaianet.network",
+  "embedding": "https://huggingface.co/gaianet/Nomic-embed-text-v1.5-Embedding-GGUF/resolve/main/nomic-embed-text-v1.5.f16.gguf",
+  "embedding_ctx_size": "8192",
+  "embedding_batch_size": "8192",
+  "embedding_name": "nomic-embed-text-v1.5.f16",
+  "llamaedge_port": "8080",
+  "prompt_template": "openchat",
+  "rag_prompt": "Use the following pieces of context to answer the user's question.\n----------------\n",
+  "reverse_prompt": "<|end_of_turn|>",
+  "snapshot": "",
+  "system_prompt": "You are a helpful, respectful, and honest assistant.",
+  "rag_policy": "last-user-message",
+  "embedding_collection_name": "default",
+  "qdrant_limit": "1",
+  "qdrant_score_threshold": "0.5"
+}
