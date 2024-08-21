@@ -10,7 +10,7 @@
   "embedding_collection_name": "default",
   "embedding_ctx_size": "8192",
   "llamaedge_port": "8080",
-  "prompt_template": "llama-3-chat",
+  "prompt_template": "chatml",
   "qdrant_limit": "1",
   "qdrant_score_threshold": "0.2",
   "rag_policy": "system-message",
