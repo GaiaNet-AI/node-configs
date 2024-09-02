@@ -20,3 +20,23 @@ gaianet start
 
 Now you can [use the node](https://docs.gaianet.ai/user-guide/mynode) as a web-based chatbot or as an OpenAI API drop-in replacement.
 
+## Advanced Rust knowledge base
+
+```
+gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/llama-3.1-8b-instruct_rustlang/config.advanced.json
+gaianet start
+```
+
+## Full context length node for the basic Rust knowledge base
+
+```
+gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/llama-3.1-8b-instruct_rustlang/config.basic.fullcontext.json
+gaianet start
+```
+
+## Full context length node for the advanced Rust knowledge base
+
+```
+gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/llama-3.1-8b-instruct_rustlang/config.advanced.fullcontext.json
+gaianet start
+```
