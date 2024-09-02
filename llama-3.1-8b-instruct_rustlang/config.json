@@ -16,6 +16,6 @@
   "rag_policy": "system-message",
   "rag_prompt": "Answer questions accurately based on the text and code examples in the context below.\n\nContext:\n",
   "reverse_prompt": "",
-  "snapshot": "https://huggingface.co/Ak1104/snapshot/resolve/main/rbe.snapshot.tar.gz",
+  "snapshot": "https://huggingface.co/datasets/gaianet/learn-rust/resolve/main/rust-books-source.snapshot.tar.gz",
   "system_prompt": "You are an expert of the Rust language. When you provide Rust code in your answer, always make sure that the Rust code is correct."
 }
