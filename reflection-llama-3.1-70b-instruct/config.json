@@ -1,6 +1,6 @@
 {
   "address": "",
-  "chat": "https://huggingface.co/gaianet/Meta-Llama-3.1-8B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-8B-Instruct-Q5_K_M.gguf",
+  "chat": "https://huggingface.co/second-state/Reflection-Llama-3.1-70B-GGUF/resolve/main/Reflection-Llama-3.1-70B-Q5_K_M.gguf",
   "chat_ctx_size": "4096",
   "chat_batch_size": "128",
   "chat_name": "Reflection-Llama-3.1-70B-Instruct-Q5_K_M",
