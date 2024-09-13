@@ -3,11 +3,12 @@
 **Prereq** Download the model file
 
 ```
-curl -LO https://huggingface.co/mradermacher/DeepSeek-V2.5-GGUF/resolve/main/DeepSeek-V2.5.Q4_K_M.gguf.part1of3
-curl -LO https://huggingface.co/mradermacher/DeepSeek-V2.5-GGUF/resolve/main/DeepSeek-V2.5.Q4_K_M.gguf.part2of3
-curl -LO https://huggingface.co/mradermacher/DeepSeek-V2.5-GGUF/resolve/main/DeepSeek-V2.5.Q4_K_M.gguf.part3of3
+curl -LO https://huggingface.co/bartowski/DeepSeek-V2.5-GGUF/resolve/main/DeepSeek-V2.5-Q4_0/DeepSeek-V2.5-Q4_0-00001-of-00004.gguf
+curl -LO https://huggingface.co/bartowski/DeepSeek-V2.5-GGUF/resolve/main/DeepSeek-V2.5-Q4_0/DeepSeek-V2.5-Q4_0-00002-of-00004.gguf
+curl -LO https://huggingface.co/bartowski/DeepSeek-V2.5-GGUF/resolve/main/DeepSeek-V2.5-Q4_0/DeepSeek-V2.5-Q4_0-00003-of-00004.gguf
+curl -LO https://huggingface.co/bartowski/DeepSeek-V2.5-GGUF/resolve/main/DeepSeek-V2.5-Q4_0/DeepSeek-V2.5-Q4_0-00004-of-00004.gguf
 
-cat DeepSeek-V2.5.Q4_K_M.gguf.part1of3 DeepSeek-V2.5.Q4_K_M.gguf.part2of3 DeepSeek-V2.5.Q4_K_M.gguf.part3of3 > DeepSeek-V2.5.Q4_K_M.gguf
+cat DeepSeek-V2.5-Q4_0-00001-of-00004.gguf DeepSeek-V2.5-Q4_0-00002-of-00004.gguf DeepSeek-V2.5-Q4_0-00003-of-00004.gguf DeepSeek-V2.5-Q4_0-00004-of-00004.gguf > DeepSeek-V2.5-Q4_0.gguf
 ```
 
 The Deepseek v2.5 is a large model. You can run the Q4 model with a 32k context window on a Mac Studio with 192GB RAM. If you 
