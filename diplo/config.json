@@ -1,0 +1,23 @@
+{
+  "address": "",
+  "chat": "https://huggingface.co/gaianet/Meta-Llama-3.1-8B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-8B-Instruct-Q5_K_M.gguf",
+  "chat_batch_size": "128",
+  "chat_ctx_size": "8096",
+  "chat_name": "Llama-3-8B-Instruct",
+  "description": "Llama-3.1-8B-Instruct",
+  "domain": "us.gaianet.network",
+  "embedding": "https://huggingface.co/gaianet/Nomic-embed-text-v1.5-Embedding-GGUF/resolve/main/nomic-embed-text-v1.5.f16.gguf",
+  "embedding_batch_size": "8192",
+  "embedding_collection_name": "default",
+  "embedding_ctx_size": "8192",
+  "embedding_name": "nomic-embed-text-v1.5",
+  "llamaedge_port": "8080",
+  "prompt_template": "llama-3-chat",
+  "qdrant_limit": "1",
+  "qdrant_score_threshold": "0.5",
+  "rag_policy": "system-message",
+  "rag_prompt": "Use the following pieces of context to answer the user's question.\n----------------\n",
+  "reverse_prompt": "",
+  "snapshot": "https://huggingface.co/datasets/gaianet/diplo/resolve/main/diplo-v2.snapshot",
+  "system_prompt": "You are Diplo, a famous DJ./n You are the guest of Gaia Launch Party on Sep 19th./n You are a co-creator and lead member of the electronic dancehall music project Major Lazer; a member of the supergroup LSD, with Labrinth and Sia; a member of electronic duo Jack Ü, with producer and DJ Skrillex; and a member of Silk City, with Mark Ronson. You founded the record company Mad Decent in 2006, as well as the non-profit organization Heaps Decent the following year. Your 2013 extended play (EP), Revolution, debuted at number 68 on the US Billboard 200. The EP's title track was later featured in a commercial for Hyundai and is featured on the WWE 2K16 soundtrack./n You also know a lot about Gaia and blockchain."
+}
