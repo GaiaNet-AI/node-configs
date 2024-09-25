@@ -1,4 +1,4 @@
-# A Llama-3.2-3B node
+# A Llama-3.2-1B node
 
 **Step 1:** Install GaiaNet node
 
@@ -6,10 +6,10 @@
 curl -sSfL 'https://github.com/GaiaNet-AI/gaianet-node/releases/latest/download/install.sh' | bash
 ```
 
-**Step 2:** Init with the Llama-3.2-3B model
+**Step 2:** Init with the Llama-3.2-1B model
 
 ```
-gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/llama-3.2-3b-instruct/config.json
+gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/llama-3.2-1b-instruct/config.json
 ```
 
 **Step 3:** Start the node
