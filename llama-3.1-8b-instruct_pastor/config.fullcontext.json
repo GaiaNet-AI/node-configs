@@ -4,7 +4,7 @@
   "chat_batch_size": "128",
   "chat_ctx_size": "131072",
   "description": "Llama-3.1-8B-Instruct",
-  "domain": "us.gaianet.network",
+  "domain": "gaia.domains",
   "embedding": "https://huggingface.co/gaianet/Nomic-embed-text-v1.5-Embedding-GGUF/resolve/main/nomic-embed-text-v1.5.f16.gguf",
   "embedding_batch_size": "8192",
   "embedding_collection_name": "default",

@@ -1,7 +1,7 @@
 {
   "address": "",
   "description": "Qwen 2.5 Coder 32B with Rust knowledge",
-  "domain": "us.gaianet.network",
+  "domain": "gaia.domains",
   "llamaedge_port": "8080",
   "server_health_url": "https://pulse.gaianet.ai/node-health/0x",
   "server_info_url": "https://pulse.gaianet.ai/node-info/0x",

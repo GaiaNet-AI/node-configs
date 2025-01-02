@@ -4,7 +4,7 @@
   "chat_batch_size": "32",
   "chat_ctx_size": "4096",
   "description": "This GaiaNet node is a pure Korean LLM. You can chat it in Korean.",
-  "domain": "us.gaianet.network",
+  "domain": "gaia.domains",
   "embedding": "https://huggingface.co/gaianet/nomic-embed-text-v1.5-GGUF/resolve/main/nomic-embed-text-v1.5-f16.gguf",
   "embedding_batch_size": "768",
   "embedding_collection_name": "default",

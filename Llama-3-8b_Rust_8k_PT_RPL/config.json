@@ -5,7 +5,7 @@
   "chat_batch_size": "128",
   "chat_name": "llama-3-8b-rust",
   "description": "A Gaia node config with a finetuned Llama-3-8B-Instruct model and a Rust language knowledge base.",
-  "domain": "us.gaianet.network",
+  "domain": "gaia.domains",
   "embedding": "https://huggingface.co/gaianet/Nomic-embed-text-v1.5-Embedding-GGUF/resolve/main/nomic-embed-text-v1.5.f16.gguf",
   "embedding_collection_name": "default",
   "embedding_ctx_size": "8192",

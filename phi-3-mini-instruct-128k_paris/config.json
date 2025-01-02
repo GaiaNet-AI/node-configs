@@ -4,7 +4,7 @@
     "chat_ctx_size": "131072",
     "chat_batch_size": "16",
     "description": "Phi-3-mini-128k-instruct with Paris tour guide",
-    "domain": "us.gaianet.network",
+    "domain": "gaia.domains",
     "embedding": "https://huggingface.co/gaianet/Nomic-embed-text-v1.5-Embedding-GGUF/resolve/main/nomic-embed-text-v1.5.f16.gguf",
     "embedding_ctx_size": "8192",
     "embedding_batch_size": "8192",
