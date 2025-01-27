@@ -20,7 +20,7 @@ gaianet start
 
 Now you can [use the node](https://docs.gaianet.ai/getting-started/mynode) as a web-based chatbot or as an OpenAI API drop-in replacement.
 
-> If the server fails to start, it is probably due to low memory on your device. You can edit the `config.json` file and reduce the `chat_ctx_size` field to `4096`, and start it again.
+> The full context size of Deepseek R1 Distilled Llama 70b is 131072. You can edit the `config.json` file and increase the `chat_ctx_size` field to `131072`, and start it again if you have enough memory.
 
 ## References
 
