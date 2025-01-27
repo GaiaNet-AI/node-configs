@@ -7,7 +7,7 @@
     "chat_name": "DeepSeek-R1-Distill-Llama-70B-Q5_K_M",
     "chat_ctx_size": "131072",
     "chat_batch_size": "128",
-    "prompt_template": "chatml",
+    "prompt_template": "llama-3-chat",
     "reverse_prompt": "",
     "system_prompt": "You are a helpful assistant.",
     "context_window": "1",
