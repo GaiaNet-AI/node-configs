@@ -25,7 +25,5 @@ Now you can [use the node](https://docs.gaianet.ai/getting-started/mynode) as a 
 ## References
 
 * [Gaia node quick start guide](https://docs.gaianet.ai/getting-started/quick-start)
-* [LlamaEdge LLM getting started guide](https://llamaedge.com/docs/user-guide/llm/full-openai)
-* [LlamaEdge introduction](https://llamaedge.com/docs/user-guide/)
 * [Gaia GitHub](https://github.com/GaiaNet-AI/gaianet-node)
 * [LlamaEdge GitHub](https://github.com/LlamaEdge/LlamaEdge)
