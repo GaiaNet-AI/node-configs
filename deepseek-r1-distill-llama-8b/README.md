@@ -20,12 +20,10 @@ gaianet start
 
 Now you can [use the node](https://docs.gaianet.ai/getting-started/mynode) as a web-based chatbot or as an OpenAI API drop-in replacement.
 
-> If the server fails to start, it is probably due to low memory on your device. You can edit the `config.json` file and reduce the `chat_ctx_size` field to `4096`, and start it again.
+> The full context size of Deepseek R1 Distilled Llama 8b is 131072. You can edit the `config.json` file and reduce the `chat_ctx_size` field to `131072`, and start it again if you have enough memory.
 
 ## References
 
 * [Gaia node quick start guide](https://docs.gaianet.ai/getting-started/quick-start)
-* [LlamaEdge LLM getting started guide](https://llamaedge.com/docs/user-guide/llm/full-openai)
-* [LlamaEdge introduction](https://llamaedge.com/docs/user-guide/)
 * [Gaia GitHub](https://github.com/GaiaNet-AI/gaianet-node)
 * [LlamaEdge GitHub](https://github.com/LlamaEdge/LlamaEdge)
