@@ -4,7 +4,7 @@
   "domain": "gaia.domains",
   "llamaedge_port": "8080",
   "chat": "https://huggingface.co/gaianet/Qwen2.5-Coder-0.5B-Instruct-GGUF/resolve/main/Qwen2.5-Coder-0.5B-Instruct-Q5_K_M.gguf",
-  "chat_name": "qwen-2.5-coder-1.5b",
+  "chat_name": "qwen-2.5-coder-0.5b",
   "chat_ctx_size": "32768",
   "chat_batch_size": "128",
   "context_window": "1",
