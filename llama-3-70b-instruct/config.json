@@ -9,7 +9,7 @@
   "embedding_ctx_size": "8192",
   "embedding_batch_size": "8192",
   "llamaedge_port": "8080",
-  "prompt_template": "llama-3-chat",
+  "prompt_template": "llama-3-tool",
   "rag_prompt": "Use the following pieces of context to answer the user's question.\n----------------\n",
   "reverse_prompt": "",
   "snapshot": "",
