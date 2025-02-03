@@ -20,3 +20,4 @@ gaianet start
 
 Now you can [use the node](https://docs.gaianet.ai/user-guide/mynode) as a web-based chatbot or as an OpenAI API drop-in replacement.
 
+> The full context size of Llama 3.1 70b is 128k. You can edit the `config.json` file and increase the `chat_ctx_size` field to `131072`, and start it again if you have enough memory.
