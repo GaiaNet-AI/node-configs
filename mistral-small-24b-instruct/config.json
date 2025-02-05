@@ -7,7 +7,7 @@
     "chat_name": "Mistral-Small-24B-Instruct-2501-Q5_K_M",
     "chat_ctx_size": "4096",
     "chat_batch_size": "128",
-    "prompt_template": "mistral-small-chat",
+    "prompt_template": "mistral-small-tool",
     "reverse_prompt": "",
     "system_prompt": "You are a helpful assistant.",
     "context_window": "1",
