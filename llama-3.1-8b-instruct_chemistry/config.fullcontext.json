@@ -1,7 +1,7 @@
 {
   "address": "",
   "description": "Llama-3.1-8B-Instruct",
-  "domain": "gaianet.network",
+  "domain": "gaia.domains",
   "llamaedge_port": "8080",
   "server_health_url": "https://pulse.gaianet.ai/node-health/0x",
   "server_info_url": "https://pulse.gaianet.ai/node-info/0x",

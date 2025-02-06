@@ -1,7 +1,7 @@
 {
   "address": "",
   "description": "The default GaiaNet node config with a Llama 3.2 3B model.",
-  "domain": "gaianet.network",
+  "domain": "gaia.domains",
   "llamaedge_port": "8080",
   "server_health_url": "https://pulse.gaianet.ai/node-health/0x",
   "server_info_url": "https://pulse.gaianet.ai/node-info/0x",
