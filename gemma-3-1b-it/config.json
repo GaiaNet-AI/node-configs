@@ -18,7 +18,7 @@
   "system_prompt": "You are a helpful, respectful, and honest assistant.",
   "rag_policy": "last-user-message",
   "embedding_collection_name": "default",
-  "context_window": "1"
+  "context_window": "1",
   "qdrant_limit": "1",
   "qdrant_score_threshold": "0.5"
 }
