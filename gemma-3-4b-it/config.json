@@ -11,7 +11,7 @@
     "embedding_batch_size": "8192",
     "embedding_name": "nomic-embed-text-v1.5.f16",
     "llamaedge_port": "8080",
-    "prompt_template": "gemma-instruct",
+    "prompt_template": "gemma-3",
     "rag_prompt": "Use the following pieces of context to answer the user's question.\n----------------\n",
     "reverse_prompt": "",
     "snapshot": "",
