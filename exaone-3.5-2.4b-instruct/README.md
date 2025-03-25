@@ -9,7 +9,7 @@ curl -sSfL 'https://github.com/GaiaNet-AI/gaianet-node/releases/latest/download/
 **Step 2:** Init with the EXAONE-3.5-2.4b model
 
 ```
-gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/exaone-3.5-2.4b-instrcut/config.json
+gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/exaone-3.5-2.4b-instruct/config.json
 ```
 
 
