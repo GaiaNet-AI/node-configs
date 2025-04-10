@@ -9,7 +9,7 @@ curl -sSfL 'https://github.com/GaiaNet-AI/gaianet-node/releases/latest/download/
 **Step 2:** Init
 
 ```
-gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/llama-4-scout-17b-16e-Instruct/config.json
+gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/llama-4-scout-17b-16e-instruct/config.json
 ```
 
 **Step 3:** Start the node
