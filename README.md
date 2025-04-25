@@ -118,12 +118,12 @@ Most configurations follow a similar quick start guide:
 
 1.  **Install Gaia node:**
     ```bash
-    curl -sSfL '[https://github.com/GaiaNet-AI/gaianet-node/releases/latest/download/install.sh](https://github.com/GaiaNet-AI/gaianet-node/releases/latest/download/install.sh)' | bash
+    curl -sSfL https://github.com/GaiaNet-AI/gaianet-node/releases/latest/download/install.sh | bash
     ```
 2.  **Initialize with a pre-set configuration:**
     Replace the example URL with the specific `config.json` URL from this repository. For example:
     ```bash
-    gaianet init --config [https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/llama-3-8b-instruct/config.json](https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/llama-3-8b-instruct/config.json)
+    gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/llama-3-8b-instruct/config.json
     ```
 3.  **Start the node:**
     ```bash
