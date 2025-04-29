@@ -1,6 +1,6 @@
 # A Qwen3 4B node 
 
-**Step 1:** Install GaiaNet node
+**Step 1:** Install GaiaNet node (Version: 0.5.0 or above)
 
 ```
 curl -sSfL 'https://github.com/GaiaNet-AI/gaianet-node/releases/latest/download/install.sh' | bash
