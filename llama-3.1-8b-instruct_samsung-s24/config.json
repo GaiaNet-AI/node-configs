@@ -10,6 +10,8 @@
   "embedding_collection_name": "default",
   "embedding_ctx_size": "8192",
   "llamaedge_port": "8080",
+  "llamaedge_chat_port": "9068",
+  "llamaedge_embedding_port": "9069",
   "prompt_template": "llama-3-chat",
   "qdrant_limit": "1",
   "qdrant_score_threshold": "0.5",

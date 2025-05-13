@@ -2,6 +2,8 @@
 
 This repository contains a collection of pre-set configuration files for quickly starting Gaia nodes with various large language models (LLMs) and settings. These configurations aim to simplify the process of deploying and using Gaia nodes for different use cases.
 
+‼️ The pre-set configuration files only support Gaia node version 0.5.0 and above. If your node version is below 0.5.0, please remove the `llamaedge_chat_port` and `llamaedge_embedding_port` parameters.
+
 ## Pre-set Configurations
 
 You can find configuration files for the following models and their setup instructions in their respective readmes.
