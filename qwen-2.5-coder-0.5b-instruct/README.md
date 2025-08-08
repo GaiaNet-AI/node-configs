@@ -6,7 +6,7 @@
 curl -sSfL 'https://github.com/GaiaNet-AI/gaianet-node/releases/latest/download/install.sh' | bash
 ```
 
-**Step 2:** Init with the Qwen2.5 Coder 1.5B model
+**Step 2:** Init with the Qwen2.5 Coder 0.5B model
 
 ```
 gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/qwen-2.5-coder-0.5b-instruct/config.json
