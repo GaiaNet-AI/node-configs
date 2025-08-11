@@ -1,6 +1,6 @@
 {
   "address": "",
-  "chat": "https://huggingface.co/ggml-org/gpt-oss-20b-GGUF/resolve/main/gpt-oss-20b-mxfp4.gguf",
+  "chat": "https://huggingface.co/gaianet/gpt-oss-20b-GGUF/resolve/main/gpt-oss-20b-MXFP4_MOE.gguf",
   "chat_ctx_size": "8192",
   "chat_batch_size": "64",
   "chat_name": "gpt-oss-20b",
