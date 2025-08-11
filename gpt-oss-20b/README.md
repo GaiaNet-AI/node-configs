@@ -26,5 +26,5 @@ Now you can [use the node](https://docs.gaianet.ai/user-guide/mynode) as a web-b
 ## References
 
 * [Official PyTorch model](https://huggingface.co/openai/gpt-oss-20b)
-* GGUF formatted model: TBA
+* [GGUF formatted model](https://huggingface.co/gaianet/gpt-oss-20b-GGUF/)
 * [GaiaNet node quick start guide](https://docs.gaianet.ai/node-guide/quick-start)
